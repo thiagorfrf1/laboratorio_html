@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361392945647",
+    "firebase_url": "https://laboratorio-html.firebaseio.com",
+    "project_id": "laboratorio-html",
+    "storage_bucket": "laboratorio-html.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361392945647:android:2d0b92f852b071422bde1a",
+        "android_client_info": {
+          "package_name": "com.ppgia.laboratorio_html"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "361392945647-6rhev430pfc5n1polsma05oltrtdtfnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ppgia.laboratorio_html",
+            "certificate_hash": "7a4608f168b642a07d175e7932ed5a6d7e9c9676"
+          }
+        },
+        {
+          "client_id": "361392945647-tb6qg2443f3euirkut3vk3h4qc97hkhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6uUs-J8sYDRz0OvrinBC0acjIxbY02As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "361392945647-tb6qg2443f3euirkut3vk3h4qc97hkhd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
